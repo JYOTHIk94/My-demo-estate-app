@@ -1,0 +1,40 @@
+{
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Estate New</span>\",\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Property\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Agent\",\"col\":4}}]",
+ "creation": "2022-12-11 12:14:33.257724",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "lock",
+ "idx": 0,
+ "label": "Estate New",
+ "links": [],
+ "modified": "2022-12-11 12:21:56.610639",
+ "modified_by": "Administrator",
+ "module": "Estate App",
+ "name": "Estate New",
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 31.0,
+ "shortcuts": [
+  {
+   "color": "Pink",
+   "doc_view": "List",
+   "label": "Property",
+   "link_to": "Property",
+   "type": "DocType"
+  },
+  {
+   "color": "Yellow",
+   "doc_view": "New",
+   "label": "Agent",
+   "link_to": "Agent",
+   "type": "DocType"
+  }
+ ],
+ "title": "Estate New"
+}
